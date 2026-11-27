@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+# the source spreadsheet stays out of the repo on purpose:
+# it carries ticket prices and private notes, and index.html already
+# contains everything the animation needs.
+*.csv
